@@ -23,9 +23,9 @@ Test the C Program for the desired output.
 
 # PROGRAM:
 
-Developed by : Mahasri P
+Developed by : Manoj.R
 
-Register Number : 212223100029
+Register Number : 212224230152
 
 ## C Program to print process ID and parent Process ID using Linux API system calls
 ~~~
